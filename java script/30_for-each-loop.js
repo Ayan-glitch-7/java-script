@@ -1,4 +1,11 @@
 /*   FOR EACH LOOP   */
+ 
+/*
+array.forEach(element => {
+    
+});
+*/
+
 
 const coding = ["js", "python", "java", "c", "c++", "ruby", "swift"];
 
